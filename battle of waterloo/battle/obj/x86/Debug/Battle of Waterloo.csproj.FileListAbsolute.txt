@@ -1,0 +1,48 @@
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\Interop.WMPRichPreviewLauncher.dll
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\Battle of Waterloo.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\bin\Debug\music\Sleep Away.mp3
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\bin\Debug\music\Maid with the Flaxen Hair.mp3
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\bin\Debug\tictacktoe.exe.manifest
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\bin\Debug\tictacktoe.application
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\bin\Debug\tictacktoe.exe
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\bin\Debug\tictacktoe.pdb
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.MainForm.resources
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.Namedialoguebox.resources
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.Properties.Resources.resources
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.Scoreboard.resources
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.StartPage.resources
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.exe.manifest
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.application
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.exe
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.pdb
+C:\Users\user\Desktop\learning materials\projects\myproj\battle of waterloo\battle\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\learning materials\projects\myproj\battle of waterloo\battle\obj\x86\Debug\Interop.WMPRichPreviewLauncher.dll
+C:\Users\user\Desktop\learning materials\projects\myproj\battle of waterloo\battle\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\learning materials\projects\myproj\battle of waterloo\battle\obj\x86\Debug\Battle of Waterloo.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\learning materials\projects\myproj\battle of waterloo\battle\obj\x86\Debug\tictacktoe.exe
+C:\Users\user\Desktop\learning materials\projects\myproj\battle of waterloo\battle\obj\x86\Debug\tictacktoe.pdb
+C:\Users\user\Desktop\learning materials\projects\myproj\battle of waterloo\battle\bin\Debug\music\Sleep Away.mp3
+C:\Users\user\Desktop\learning materials\projects\myproj\battle of waterloo\battle\bin\Debug\music\Maid with the Flaxen Hair.mp3
+C:\Users\user\Desktop\learning materials\projects\myproj\battle of waterloo\battle\bin\Debug\tictacktoe.exe.manifest
+C:\Users\user\Desktop\learning materials\projects\myproj\battle of waterloo\battle\bin\Debug\tictacktoe.application
+C:\Users\user\Desktop\learning materials\projects\myproj\battle of waterloo\battle\bin\Debug\tictacktoe.exe
+C:\Users\user\Desktop\learning materials\projects\myproj\battle of waterloo\battle\bin\Debug\tictacktoe.pdb
+C:\Users\user\Desktop\learning materials\projects\myproj\battle of waterloo\battle\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\learning materials\projects\myproj\battle of waterloo\battle\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\learning materials\projects\myproj\battle of waterloo\battle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\learning materials\projects\myproj\battle of waterloo\battle\obj\x86\Debug\tictacktoe.MainForm.resources
+C:\Users\user\Desktop\learning materials\projects\myproj\battle of waterloo\battle\obj\x86\Debug\tictacktoe.Namedialoguebox.resources
+C:\Users\user\Desktop\learning materials\projects\myproj\battle of waterloo\battle\obj\x86\Debug\tictacktoe.Properties.Resources.resources
+C:\Users\user\Desktop\learning materials\projects\myproj\battle of waterloo\battle\obj\x86\Debug\tictacktoe.Scoreboard.resources
+C:\Users\user\Desktop\learning materials\projects\myproj\battle of waterloo\battle\obj\x86\Debug\tictacktoe.StartPage.resources
+C:\Users\user\Desktop\learning materials\projects\myproj\battle of waterloo\battle\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\learning materials\projects\myproj\battle of waterloo\battle\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\learning materials\projects\myproj\battle of waterloo\battle\obj\x86\Debug\tictacktoe.exe.manifest
+C:\Users\user\Desktop\learning materials\projects\myproj\battle of waterloo\battle\obj\x86\Debug\tictacktoe.application

@@ -1,0 +1,38 @@
+C:\covenant projects\Source\tictacktoe-C#\tictacktoe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\covenant projects\Source\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.MainForm.resources
+C:\covenant projects\Source\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.Namedialoguebox.resources
+C:\covenant projects\Source\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.Scoreboard.resources
+C:\covenant projects\Source\tictacktoe-C#\tictacktoe\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\covenant projects\Source\tictacktoe-C#\tictacktoe\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\covenant projects\Source\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.exe.manifest
+C:\covenant projects\Source\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.exe
+C:\covenant projects\Source\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.pdb
+C:\Users\user\Desktop\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.pdb
+C:\Users\user\Desktop\myproj\tictacktoe-C#\tictacktoe\bin\Debug\tictacktoe.exe.manifest
+C:\Users\user\Desktop\myproj\tictacktoe-C#\tictacktoe\bin\Debug\tictacktoe.application
+C:\Users\user\Desktop\myproj\tictacktoe-C#\tictacktoe\bin\Debug\tictacktoe.exe
+C:\Users\user\Desktop\myproj\tictacktoe-C#\tictacktoe\bin\Debug\tictacktoe.pdb
+C:\Users\user\Desktop\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.MainForm.resources
+C:\Users\user\Desktop\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.Namedialoguebox.resources
+C:\Users\user\Desktop\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.Scoreboard.resources
+C:\Users\user\Desktop\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.exe.manifest
+C:\Users\user\Desktop\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.application
+C:\Users\user\Desktop\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.exe
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.exe
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.pdb
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\bin\Debug\tictacktoe.exe.manifest
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\bin\Debug\tictacktoe.application
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\bin\Debug\tictacktoe.exe
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\bin\Debug\tictacktoe.pdb
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.MainForm.resources
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.Namedialoguebox.resources
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.Properties.Resources.resources
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.Scoreboard.resources
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.exe.manifest
+C:\Users\user\Desktop\learning materials\projects\myproj\tictacktoe-C#\tictacktoe\obj\x86\Debug\tictacktoe.application

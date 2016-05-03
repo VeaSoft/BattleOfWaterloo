@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="tictacktoe">
+</Property><Property Name="Solution File" Value="C:\covenant projects\Source\tictacktoe-C#\tictacktoe\tictacktoe.sln">
+</Property><Property Name="Date" Value="16 July 2014">
+</Property><Property Name="Time" Value="13:09">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="tictacktoe.sln" Description="File successfully backed up as C:\covenant projects\Source\tictacktoe-C#\tictacktoe\Backup\tictacktoe.sln">
+</Event><Event ErrorLevel="0" Project="tictacktoe" Source="tictacktoe.csproj" Description="Project file successfully backed up as C:\covenant projects\Source\tictacktoe-C#\tictacktoe\Backup\tictacktoe.csproj">
+</Event><Event ErrorLevel="0" Project="tictacktoe" Source="tictacktoe.csproj.user" Description="Project user file successfully backed up as C:\covenant projects\Source\tictacktoe-C#\tictacktoe\Backup\tictacktoe.csproj.user">
+</Event><Event ErrorLevel="0" Project="tictacktoe" Source="FileWriter.cs" Description="File successfully backed up as C:\covenant projects\Source\tictacktoe-C#\tictacktoe\Backup\FileWriter.cs">
+</Event><Event ErrorLevel="0" Project="tictacktoe" Source="MainForm.cs" Description="File successfully backed up as C:\covenant projects\Source\tictacktoe-C#\tictacktoe\Backup\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="tictacktoe" Source="MainForm.Designer.cs" Description="File successfully backed up as C:\covenant projects\Source\tictacktoe-C#\tictacktoe\Backup\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="tictacktoe" Source="Namedialoguebox.cs" Description="File successfully backed up as C:\covenant projects\Source\tictacktoe-C#\tictacktoe\Backup\Namedialoguebox.cs">
+</Event><Event ErrorLevel="0" Project="tictacktoe" Source="Namedialoguebox.Designer.cs" Description="File successfully backed up as C:\covenant projects\Source\tictacktoe-C#\tictacktoe\Backup\Namedialoguebox.Designer.cs">
+</Event><Event ErrorLevel="0" Project="tictacktoe" Source="Program.cs" Description="File successfully backed up as C:\covenant projects\Source\tictacktoe-C#\tictacktoe\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="tictacktoe" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\covenant projects\Source\tictacktoe-C#\tictacktoe\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="tictacktoe" Source="Scoreboard.cs" Description="File successfully backed up as C:\covenant projects\Source\tictacktoe-C#\tictacktoe\Backup\Scoreboard.cs">
+</Event><Event ErrorLevel="0" Project="tictacktoe" Source="Scoreboard.Designer.cs" Description="File successfully backed up as C:\covenant projects\Source\tictacktoe-C#\tictacktoe\Backup\Scoreboard.Designer.cs">
+</Event><Event ErrorLevel="0" Project="tictacktoe" Source="MainForm.resx" Description="File successfully backed up as C:\covenant projects\Source\tictacktoe-C#\tictacktoe\Backup\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="tictacktoe" Source="Namedialoguebox.resx" Description="File successfully backed up as C:\covenant projects\Source\tictacktoe-C#\tictacktoe\Backup\Namedialoguebox.resx">
+</Event><Event ErrorLevel="0" Project="tictacktoe" Source="Scoreboard.resx" Description="File successfully backed up as C:\covenant projects\Source\tictacktoe-C#\tictacktoe\Backup\Scoreboard.resx">
+</Event><Event ErrorLevel="0" Project="tictacktoe" Source="tictacktoe.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="tictacktoe" Source="tictacktoe.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="tictacktoe.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="tictacktoe.sln" Description="Converted">
+</Event></UpgradeLog>
